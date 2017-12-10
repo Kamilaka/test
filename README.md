@@ -4,3 +4,4 @@
 1 git Clone
 2 git commit -m
 3 .gitignore
+4 commit -a -m
