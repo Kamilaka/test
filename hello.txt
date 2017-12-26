@@ -1,6 +1,4 @@
-<<<<<<< HEAD
+
 Hello world from master
-=======
 Hello world
 Hello world from testing branch
->>>>>>> testing
